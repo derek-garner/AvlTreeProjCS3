@@ -1,0 +1,23 @@
+﻿  game.cpp
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(373): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(380): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(398): warning C4018: '<': signed/unsigned mismatch
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(439): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\game.cpp(423): warning C4715: 'Game::solveItAVL': not all control paths return a value
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\avltreeladder.h(304): warning C4715: 'AvlPriorityWord<int>::removeMin': not all control paths return a value
+c:\users\dgdeskasus\documents\visual studio 2015\projects\cs3_pj3\cs3_pj3\avltreeladder.h(304): warning C4715: 'AvlPriorityWord<WordLadderState>::removeMin': not all control paths return a value
+  Compiling...
+  main.cpp
+  Generating Code...
+  CS3_PJ3.vcxproj -> C:\Users\DGDeskAsus\documents\visual studio 2015\Projects\CS3_PJ3\Debug\CS3_PJ3.exe
+  CS3_PJ3.vcxproj -> C:\Users\DGDeskAsus\documents\visual studio 2015\Projects\CS3_PJ3\Debug\CS3_PJ3.pdb (Full PDB)
